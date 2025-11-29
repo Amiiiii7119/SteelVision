@@ -1,0 +1,17 @@
+# requirements.txt
+torch
+torchvision
+timm
+streamlit
+opencv-python
+albumentations
+scikit-learn
+pandas
+numpy
+matplotlib
+plotly
+Pillow
+tqdm
+fpdf
+seaborn
+grad-cam
